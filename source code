@@ -9,7 +9,7 @@ from tkinter import messagebox
 import random
 import string
 
-print("Starting Virtual Assistant!")
+print("Starting ProAssist VI!")
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
