@@ -102,7 +102,7 @@ def checkCaptcha(captcha, entry):
 def main():
   root = tk.Tk()
   root.geometry("400x400")
-  root.title("Virtual Assistant")
+  root.title("ProAssist VI")
 
   captcha = generateCaptcha()
   tk.Label(root, text="Enter the captcha: " + captcha).pack()
