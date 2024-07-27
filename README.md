@@ -1,4 +1,4 @@
-# ProAssist-VI
+## ProAssist-VI
 
 This repository contains the source code for ProAssist VI, a virtual intelligence project capable of interacting with users through voice and text commands.
 
