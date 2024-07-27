@@ -2,7 +2,7 @@
 
 This repository contains the source code for ProAssist VI, a virtual intelligence project capable of interacting with users through voice and text commands.
 
-Features:
+## Features:
 
 Multimodal Input: Accepts commands through both speech recognition and text input.
 Web Navigation: Opens websites based on user voice commands.
@@ -12,7 +12,7 @@ Personalized Greetings: Offers greetings tailored to the time of day.
 User Interface: Features an intuitive and user-friendly interface for easy interaction.
 Captcha Verification: Implements a captcha system for added security.
 
-Dependencies:
+## Dependencies:
 This project requires the following Python libraries:
 
 pyttsx3
@@ -20,3 +20,6 @@ speech_recognition
 wikipedia
 webbrowser
 tkinter 
+
+## Contact
+For any questions or suggestions, feel free to contact me via gmail workwithnaveen7@gmail.com
